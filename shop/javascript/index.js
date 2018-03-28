@@ -1,6 +1,4 @@
-/**
- * Created by xiecheng on 17/6/11.
- */
+
 (function(){//函数立即调用
     var oProduct = document.getElementById("product");
     var aAdd = oProduct.getElementsByTagName("button");
